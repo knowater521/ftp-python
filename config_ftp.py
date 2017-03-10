@@ -17,7 +17,7 @@ max_cons = 256
 max_pre_ip = 10
 
 # 被动连接端口 这个必须比客户端连接数多否者客户端不能连接
-passive_ports = (2223, 2233)
+passive_ports = (2000, 2200)
 
 # 是否允许匿名访问
 enable_anonymous = False
