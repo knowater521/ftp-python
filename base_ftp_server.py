@@ -3,7 +3,6 @@
 # 实例化 虚拟帐号
 # pip install pyftpdlib
 import logging
-
 from pyftpdlib.authorizers import DummyAuthorizer
 from pyftpdlib.handlers import ThrottledDTPHandler, FTPHandler
 from pyftpdlib.servers import FTPServer

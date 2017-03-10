@@ -1,5 +1,5 @@
 ip = "0.0.0.0"
-port = "2122"
+port = "21"
 
 # 限制上传下载速度
 limit_trans = False
